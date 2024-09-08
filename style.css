@@ -361,3 +361,7 @@ span {
 cursor: pointer;
 margin-top: 2rem;
 }
+
+.navbar a:hover{
+    color: #48A300;
+}
